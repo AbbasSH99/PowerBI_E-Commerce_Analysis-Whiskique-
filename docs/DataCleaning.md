@@ -81,10 +81,11 @@ This document outlines the data preparation and transformation process for my Po
 ---
 
 ## 📷 Screenshots
-![Data Model](screenshots/Data_cleaning/Data_Model.PNG)
+![Customer Info Dashboard](screenshots/Visualization_Steps/Customer_Info_Dashboard.PNG)
 
 ---
 
 ## 📂 Full Technical Documentation
 
 For the full detailed step-by-step process, download the **Data Cleaning & Manipulation.docx** file in this repository.
+
