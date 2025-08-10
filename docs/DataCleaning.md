@@ -81,13 +81,20 @@ This document outlines the data preparation and transformation process for my Po
 ---
 
 ## 📷 Screenshots
+- Data Model
 ![Data_Model](../screenshots/Data_cleaning/Data_Model.PNG)
+- Blended Shipping Cost Factor Formula
+![Blended Shipping Cost Factor](../screenshots/Data_cleaning/Blended_Shipping_Cost_Factor.PNG)
+- Shipping (What-if) & (What-if) Running Total Formulas
+![What_if_formula](../screenshots/Data_cleaning/What_if_formula.PNG)
+![What_if_RT_formula](../screenshots/Data_cleaning/What_if_RT_formula.PNG)
 
 ---
 
 ## 📂 Full Technical Documentation
 
 For the full detailed step-by-step process, download the **Data Cleaning & Manipulation.docx** file in this repository.
+
 
 
 
