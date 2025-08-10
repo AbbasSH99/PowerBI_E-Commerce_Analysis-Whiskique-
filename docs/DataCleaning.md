@@ -81,9 +81,10 @@ This document outlines the data preparation and transformation process for my Po
 ---
 
 ## 📷 Screenshots
-*(Insert key screenshots here for better visualization: data model, Power Query steps, DAX formulas, dashboard previews)*
+![Data Model](screenshots/Data_cleaning/Data_Model.PNG)
 
 ---
 
 ## 📂 Full Technical Documentation
+
 For the full detailed step-by-step process, download the **Data Cleaning & Manipulation.docx** file in this repository.
