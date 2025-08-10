@@ -41,7 +41,7 @@ The dataset is comprised of four CSV files:
 ## 🔍 Step-by-Step Analysis
 
 ### 1️⃣ Customer Analysis
-![Market Basket Dashboard](screenshots/Visualization_Steps/Customer_Info_Dashboard.PNG)  
+![Customer Info Dashboard](screenshots/Visualization_Steps/Customer_Info_Dashboard.PNG)  
 - **Map visual** on “Customer Info” showed California had the most customers (419), followed by Florida (229).  
 - **Bar chart** of top 20 states by average Lifetime Value (LTV):  
   - Highest: North Dakota ($1,277.80)  
@@ -49,6 +49,7 @@ The dataset is comprised of four CSV files:
   - Note: California, despite most customers, wasn’t top 10 for LTV.
 
 ### 2️⃣ Products & Shipping
+![Product Info Dashboard](screenshots/Visualization_Steps/Product_Info_Dashboard.PNG) 
 - **Top 3 products by avg quantity sold:**  
   1. Sheba Wet Portions Pat Wet Cat Food  
   2. Canned Cat Food  
@@ -57,10 +58,12 @@ The dataset is comprised of four CSV files:
 - **Column chart:** Highest average shipping cost ($20) also for the top-selling dog food.
 
 ### 3️⃣ Quantity Insights
+![Quantity Info Dashboard](screenshots/Visualization_Steps/Quantity_Info_Dashboard.PNG) 
 - Orders of 1 item = 32.25% of sales.  
 - Most invoices had **2 items** (7.22% of total).
 
 ### 4️⃣ Market Basket Visualization
+![Market Basket Dashboard](screenshots/Visualization_Steps/Market_Basket_Zoomed_In.png) 
 - Linked product relationships using many-to-many model.  
 - Example: “Memory Foam Pet Beds” often bought with the top-selling dog food → cross-sell opportunity.
 
