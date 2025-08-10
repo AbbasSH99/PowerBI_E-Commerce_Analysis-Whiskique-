@@ -68,6 +68,7 @@ The dataset is comprised of four CSV files:
 - Example: “Memory Foam Pet Beds” often bought with the top-selling dog food → cross-sell opportunity.
 
 ### 5️⃣ Shipping Costs (What-if Analysis)
+![Shipping Metrics 1 Dashboard](screenshots/Visualization_Steps/Shipping_Metrics_1_Dashboard.PNG) 
 - Modeled reduced shipping costs (70% discount per extra unit after first).  
 - Showed **30.7% savings** at 10+ items; visible cost drops starting at 5 items.
 
@@ -81,8 +82,9 @@ The dataset is comprised of four CSV files:
 - Mapped baseline shipping cost by region/state.
 
 ### 8️⃣ Revenue & Profits
+![Sales Dashboard](screenshots/Visualization_Steps/Sales_Dashboard.PNG) 
 - **Top 3 sales states:** California ($172,697), Florida ($107,522), Massachusetts ($88,279).  
-- Total sales = $X  
+- Total sales = $1.55M  
 - Total profit = $427.34K (**27.50% margin**).
 
 ---
@@ -129,7 +131,3 @@ The dataset is comprised of four CSV files:
 - **DAX:** Custom KPIs, calculated columns
 - **Visualization:** Advanced Power BI visuals, slicers, maps, treemaps
 - **Business Analysis:** Profitability, cost optimization, cross-selling
-
----
-
-## 📂 Repository Structure
