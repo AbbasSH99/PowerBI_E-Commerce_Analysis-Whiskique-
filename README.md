@@ -63,7 +63,7 @@ The dataset is comprised of four CSV files:
 - Most invoices had **2 items** (7.22% of total).
 
 ### 4️⃣ Market Basket Visualization
-![Market Basket Dashboard](screenshots/Visualization_Steps/Market_Basket_Zoomed_In.png) 
+![Market Basket Dashboard](screenshots/Visualization_Steps/Market_Basket_Zoomed_In.PNG) 
 - Linked product relationships using many-to-many model.  
 - Example: “Memory Foam Pet Beds” often bought with the top-selling dog food → cross-sell opportunity.
 
