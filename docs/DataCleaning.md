@@ -96,7 +96,8 @@ This document outlines the data preparation and transformation process for my Po
 
 ## 📂 Full Technical Documentation
 
-For the full detailed step-by-step process, download the **Data Cleaning & Manipulation.docx** file in this repository.
+For the full detailed step-by-step process, download the **Data Cleaning Documentation.docx** file in this repository.
+
 
 
 
