@@ -92,19 +92,19 @@ The dataset is comprised of four CSV files:
 ## 📊 Final Dashboards
 
 ### 1️⃣ Executive Summary
-![Executive Summary Dashboard](images/executive_summary.png)  
+![Executive Summary Dashboard](screenshots/Final_Dashboards/Executive_Summary_Dashboard.PNG)  
 **Purpose:** High-level overview of sales, profits, shipping costs, and top products.
 
 **Key Insights:**
-- Total Sales: $X (CA, FL, MA top states)
-- Total Profit: $X at **27.50% margin**
+- Total Sales: $1.55M (CA, FL, MA top states)
+- Total Profit: $427.34K at **27.50% margin**
 - Top Product: “Taste of the Wild High Prairie Grain-Free Dog Food” – $270,364 sales
 - Highest Margin Category: Electronics (44.28%)
 
 ---
 
 ### 2️⃣ Shipping Metrics
-![Shipping Metrics Dashboard](images/shipping_metrics.png)  
+![Shipping Metrics Dashboard](screenshots/Final_Dashboards/Shipping_Metrics_Dashboard.PNG)  
 **Purpose:** Measure impact of optimized shipping strategies.
 
 **Key Insights:**
@@ -115,7 +115,7 @@ The dataset is comprised of four CSV files:
 ---
 
 ### 3️⃣ Market Basket Analysis
-![Market Basket Dashboard](images/market_basket.png)  
+![Market Basket Dashboard](screenshots/Final_Dashboards/Market_Basket_Analysis_Dashboard.PNG)  
 **Purpose:** Identify cross-sell product patterns.
 
 **Key Insights:**
