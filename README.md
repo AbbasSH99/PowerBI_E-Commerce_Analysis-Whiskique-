@@ -41,6 +41,7 @@ The dataset is comprised of four CSV files:
 ## 🔍 Step-by-Step Analysis
 
 ### 1️⃣ Customer Analysis
+![Market Basket Dashboard](screenshots/Visualization_Steps/Customer_Info_Dashboard.png)  
 - **Map visual** on “Customer Info” showed California had the most customers (419), followed by Florida (229).  
 - **Bar chart** of top 20 states by average Lifetime Value (LTV):  
   - Highest: North Dakota ($1,277.80)  
